@@ -1,0 +1,99 @@
+.top-container{
+  background-color: #b2ebf2;
+  padding-top: 140px;
+position: relative;
+}
+.middle-container{
+margin: 100px 0;
+line-height: 30px;
+}
+.bottom-container{
+background-color: #77d8d8;
+padding: 20px;
+margin: auto;
+}
+
+body{
+  margin: 0 auto 0 auto;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-size: 1rem;
+
+}
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  border-color: #EAF6F6;
+  width: 5%;
+  margin: 100px auto;
+}
+
+h1{
+margin: 0 auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+}
+
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #11999E;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+color: #11999E;
+}
+.heading{
+  width:30%;
+  margin: 0 auto 0 auto;
+}
+.bottom-cloud{
+  position: absolute;
+  right:300px;
+  top:100px;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.botton{
+  padding: 10px;}
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+p{
+  font-weight: normal;
+}
+
+.top-cloud{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.bookk-img{
+  width: 80px;
+  float: left;
+  margin-right: 30px;
+}
+.piizzaa{
+  width: 80px;
+  float: right;
+  margin-right: 30px;
+}
+.final{
+  color: #EAF6F6;
+  font-size: 0.50;
+  padding: 20px 0;
+}
